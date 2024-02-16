@@ -29,7 +29,7 @@ Here is a list of institutes in Pune that offer Django classes along with a brie
 
 These institutes vary in terms of course duration, fees, teaching methodology, and additional services such as placement assistance. It's recommended to research each institute further and consider factors like curriculum coverage, instructor expertise, student reviews, and alumni success stories before making a decision. 
 
-#### Get Details About The Course Only On [JustAcademy.[(https://www.justacademy.co/)
+#### Get Details About The Course Only On [JustAcademy.](https://www.justacademy.co/)
 #### To Join our FREE DEMO Session [Click Here](https://www.justacademy.co/register-for-course-demo)
 #### This information is sourced from JustAcademy
 #### Contact Info:
