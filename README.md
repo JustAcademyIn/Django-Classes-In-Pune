@@ -1,5 +1,5 @@
 # Django Classes In Pune
-## [Django Classes In Pune[(https://www.justacademy.co/course-detail/django-training)
+## [Django Classes In Pune](https://www.justacademy.co/course-detail/django-training)
 Choosing to pursue django classes in pune offers a unique blend of benefits. Pune, renowned as the "Oxford of the East," boasts a rich educational heritage with top-tier institutes and a thriving tech ecosystem. By studying Django here, students gain access to expert faculty, practical learning opportunities, and a vibrant community, ensuring a comprehensive and enriching educational experience in one of India's leading IT hubs.
 Here is a list of institutes in Pune that offer Django classes along with a brief explanation about each:
 
